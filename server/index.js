@@ -26,9 +26,3 @@ const PORT = process.env.PORT || 5000
 app.listen(PORT, () => {
   console.log('Server is up and running on port:', PORT)
 })
-
-// mongodb+srv://umeshbhat:umeshbhat@cluster0-24fhy.mongodb.net/feedbackapp-prod?retryWrites=true&w=majority
-
-//970763464240-4us97nd4juna9unk5fcei81oviutd1uj.apps.googleusercontent.com
-
-//H35wSw2o1MmkoRwrSaJnlZIs
